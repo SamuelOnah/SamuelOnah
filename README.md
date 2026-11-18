@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Samuel Onah 👋
 
-<!--
-**SamuelOnah/SamuelOnah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aspiring Software Engineer | Backend Development**
 
-Here are some ideas to get you started:
+- 🌱 Learning Python, Go, and Data Structures & Algorithms.
+- 🔭 Building software projects and improving my engineering skills.
+- 🤖 Exploring AI and backend development.
+- 👯 Open to collaborating on software projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+- Python
+- Go
+- Git & GitHub
+- Linux
+
+⚡ *Debugging life one step at a time.*
